@@ -4,7 +4,7 @@ This document outlines the complete system architecture, process flows, and data
 
 ## System Overview
 
-The K-Food E-commerce system is a comprehensive web-based platform that enables customers to browse, order, and pay for Korean food items online. The system supports multiple user roles (Customer, Admin, Crew) and includes features such as cart management, payment processing, order tracking, and inventory management.
+The K-Food E-commerce system is a comprehensive web-based platform that enables customers to browse, order, and pay for the product items online. The system supports multiple user roles (Customer, Admin, Crew) and includes features such as cart management, payment processing, order tracking, and inventory management.
 
 ## Process Flow Diagram
 
